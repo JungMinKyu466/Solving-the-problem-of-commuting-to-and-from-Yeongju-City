@@ -1,4 +1,4 @@
-# 🔥 Shall we DATATON? 🔥
+# 🔥 Shall we DATATHON? 🔥
 
 > **SeD 2nd 상반기 프로젝트 집중 개발 세션**
 > *from Idea to Prototype*
@@ -27,10 +27,10 @@
 
 이번 데이터톤은 아래 4개 팀이 참여합니다.
 
-* **Team F4**
-* **Team 영천의 미학**
+* **Team 영천의미학**
+* **Team 데이터분석해조**
 * **Team InsightLab**
-* **Team DATA분석해조**
+* **Team F4**
 
 각 팀은 현재까지 정리한 주제와 데이터를 바탕으로
 분석 방향을 구체화하고, 제출 가능한 형태의 산출물을 제작합니다.
@@ -59,9 +59,9 @@
 
 * **권장 제출물**
 
-  * 발표자료: `SeD_2nd_Dataton_{Teamname}.pptx`
-  * 분석 코드: `SeD_2nd_Dataton_{Teamname}.ipynb`
-  * 데이터/변수 정의표: `SeD_2nd_Dataton_{Teamname}_DataDictionary.xlsx` 또는 `.csv`
+  * 발표자료: `SeD_2nd_Datathon_{Teamname}.pptx`
+  * 분석 코드: `SeD_2nd_Datathon_{Teamname}.ipynb`
+  * 데이터/변수 정의표: `SeD_2nd_Datathon_{Teamname}_DataDictionary.xlsx` 또는 `.csv`
   * 필요 시 추가 산출물: 대시보드, 지도 시각화, 서비스 목업, 정책 제안서 초안 등
 
 ---
@@ -141,10 +141,10 @@
 ```bash
 ShallweData/
 ├── 2nd_Sp2026_Projects/
-│   ├── F4/
 │   ├── YeongcheonAesthetics/
+│   ├── DataAnalysisHaejo/
 │   ├── InsightLab/
-│   ├── DATAAnalysisHaejo/
+│   ├── F4/
 │   └── README.md
 └── README.md
 ```
