@@ -2,7 +2,7 @@
 
 **InsightLab**은 근로자의 임금 체불 문제를 시계열 데이터 기반으로 분석하고, 노동자의 권익보호와 예산의 효율적 운용을 제안하는 프로젝트입니다.
 
-<img width="2009" height="857" alt="logoimage" src="https://github.com/user-attachments/assets/bf3f9ac3-ed2c-4132-b7cb-172b088a973c" />
+<img width="1500" height="600" alt="logoimage" src="https://github.com/user-attachments/assets/bf3f9ac3-ed2c-4132-b7cb-172b088a973c" />
 
 
 ## 👀 프로젝트 선정 이유
