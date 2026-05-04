@@ -2,7 +2,14 @@
 
 **InsightLab**은 근로자의 임금 체불 문제를 시계열 데이터 기반으로 분석하고, 노동자의 권익보호와 예산의 효율적 운용을 제안하는 프로젝트입니다.
 
+![image](https://github.com/SeD-ShallweData/2nd_Sp2026_Projects/edit/main/InsightLab/logoimage.png)
 ---
+
+## 👀 프로젝트 선정 이유
+- 매년마다 계속 증가하는 국내 총 체불액
+- 근로자가 신고한 이후에 조사가 시작되는 현행 대응 방식의 한계점
+- 피해자 피해 회복이 사실상 불가능
+
 
 ## 🎯 프로젝트 목표
 
