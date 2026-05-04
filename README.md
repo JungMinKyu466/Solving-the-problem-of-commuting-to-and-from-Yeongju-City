@@ -141,10 +141,10 @@
 ```bash
 ShallweData/
 ├── 2nd_Sp2026_Projects/
-│   ├── YeongcheonAesthetics/
 │   ├── DataAnalysisHaejo/
-│   ├── InsightLab/
 │   ├── F4/
+│   ├── InsightLab/
+│   ├── YeongcheonAesthetics/
 │   └── README.md
 └── README.md
 ```
