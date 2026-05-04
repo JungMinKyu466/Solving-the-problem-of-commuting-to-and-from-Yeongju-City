@@ -87,6 +87,28 @@
 
 ---
 
+## 🚀 실행 방법 (Getting Started)
+
+본 프로젝트는 `Anaconda` 기반의 Python 환경에서 실행됩니다.
+
+1️⃣ 가상환경 생성 및 활성화
+
+```
+bash
+conda create -n money_worry python=3.14 -y
+conda activate money_worry
+```
+2️⃣ 필수 라이브러리 설치
+
+```
+pip install scikit-learn lightgbm xgboost catboost shap matplotlib seaborn pandas numpy
+```
+
+3️⃣ 프로젝트 실행
+```
+python wage_detect.py
+```
+
 ## 🧑‍💻 팀 소개
 
 - **팀명:** InsightLAb  
