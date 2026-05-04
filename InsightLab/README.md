@@ -2,14 +2,15 @@
 
 **InsightLab**은 근로자의 임금 체불 문제를 시계열 데이터 기반으로 분석하고, 노동자의 권익보호와 예산의 효율적 운용을 제안하는 프로젝트입니다.
 
-![image](https://github.com/SeD-ShallweData/2nd_Sp2026_Projects/edit/main/InsightLab/logoimage.png)
----
+<img width="2009" height="857" alt="logoimage" src="https://github.com/user-attachments/assets/bf3f9ac3-ed2c-4132-b7cb-172b088a973c" />
+
 
 ## 👀 프로젝트 선정 이유
 - 매년마다 계속 증가하는 국내 총 체불액
 - 근로자가 신고한 이후에 조사가 시작되는 현행 대응 방식의 한계점
 - 피해자 피해 회복이 사실상 불가능
 
+---
 
 ## 🎯 프로젝트 목표
 
@@ -40,10 +41,24 @@
 
 ## 📊 주요 분석 결과
 
-- {주요 결과 1}
-- {주요 결과 2}
-- {주요 결과 3}
+- SHAP_피처중요도_Top15
+  <img width="800" height="600" alt="fig04_SHAP_피처중요도_Top15" src="https://github.com/user-attachments/assets/42416db7-cf5b-4954-9142-f4aafbce53d6" />
 
+- 산업카테고리별_양성률
+  <img width="800" height="500" alt="fig10_산업카테고리별_양성률" src="https://github.com/user-attachments/assets/dcaabacd-52b6-4653-889d-114048fe0143" />
+
+- Precision10
+  <img width="1934" height="1035" alt="fig01_헤드라인_Precision10" src="https://github.com/user-attachments/assets/08879cd8-4473-4ab4-80d6-c31a632ed5e9" />
+
+
+- PrecisionK_종합
+  <img width="1000" height="500" alt="fig02_PrecisionK_종합" src="https://github.com/user-attachments/assets/f2fb9985-d4bb-40c2-84c9-c24ccef512d0" />
+
+
+- 공개차수별_식별정확도
+  <img width="800" height="500" alt="fig07_공개차수별_식별정확도" src="https://github.com/user-attachments/assets/4c39df1f-81d5-4a14-8e6f-4c05db19cf66" />
+
+  
 ---
 
 ## 🛠️ 정책 제안 / 서비스 제안
