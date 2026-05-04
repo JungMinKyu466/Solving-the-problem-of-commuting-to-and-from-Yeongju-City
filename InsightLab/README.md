@@ -87,7 +87,7 @@
 
 ---
 
-## 🚀 실행 방법 (Getting Started)
+## 🚀 실행 방법
 
 본 프로젝트는 `Anaconda` 기반의 Python 환경에서 실행됩니다.
 
