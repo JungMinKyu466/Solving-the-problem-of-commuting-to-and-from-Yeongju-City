@@ -145,7 +145,6 @@ ShallweData/
 │   ├── F4/
 │   ├── InsightLab/
 │   ├── YeongcheonAesthetics/
-│   └── README.md
 └── README.md
 ```
 
