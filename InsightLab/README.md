@@ -106,7 +106,7 @@ pip install scikit-learn lightgbm xgboost catboost shap matplotlib seaborn panda
 
 3️⃣ 프로젝트 실행
 ```
-python wage_detect.py
+python ./model/train.py
 ```
 
 ## 🧑‍💻 팀 소개
