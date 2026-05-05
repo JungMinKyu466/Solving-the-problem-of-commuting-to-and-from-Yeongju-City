@@ -33,7 +33,8 @@
 이후 시계열 데이터를 기반으로 14개 핵심 파생 변수를 생성해 다음과 같은 기법을 적용하였습니다.
 
 - 로지스틱 회귀 Logistic Regression
-- 랜덤 포레스트 Random Forest
+- LightGBM
+- CatBoost
 - SHAP 분석
 - Python, Pandas, Scikit-learn
 
